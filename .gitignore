@@ -3,3 +3,5 @@ src/**/*/.umi
 src/**/*/.umi-production
 dist
 .vscode
+yarn.lock
+package-lock.json
