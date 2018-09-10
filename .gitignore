@@ -2,3 +2,4 @@ node_modules
 src/**/*/.umi
 src/**/*/.umi-production
 dist
+.vscode
