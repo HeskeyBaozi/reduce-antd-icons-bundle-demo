@@ -5,3 +5,4 @@ dist
 .vscode
 yarn.lock
 package-lock.json
+.idea
