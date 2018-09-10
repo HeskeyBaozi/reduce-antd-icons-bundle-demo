@@ -18,9 +18,9 @@ alias: {
     __dirname,
     './src/icons.js'
   ),
-  '@ant-design/icons/lib/outline': path.resolve(
+  '@ant-design/icons/lib': path.resolve(
     __dirname,
-    'node_modules/@ant-design/icons/lib/outline'
+    'node_modules/@ant-design/icons/lib'
   )
 }
 ```
