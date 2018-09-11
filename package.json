@@ -1,7 +1,7 @@
 {
-  "name": "bundle",
+  "name": "reduce-antd-icons-bundle-size",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
   "license": "MIT",
   "scripts": {
     "start": "umi dev",
