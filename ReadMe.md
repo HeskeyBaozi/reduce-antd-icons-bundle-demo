@@ -7,7 +7,6 @@
 
 ## Config `alias`
 
-See [src/icons.js](./src/icons.js)
 ```js
 // src/icons.js
 
@@ -19,7 +18,6 @@ export { default as MehOutline } from '@ant-design/icons/lib/outline/MehOutline'
 export { default as LoadingOutline } from '@ant-design/icons/lib/outline/LoadingOutline';
 ```
 
-See [.umirc.js](./umirc.js)
 ```js
 // .umirc.js
 export default {
