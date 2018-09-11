@@ -1,5 +1,7 @@
 # Reduce Antd icons bundle size
 
+See [related issue](https://github.com/ant-design/ant-design/issues/12011#issuecomment-420038579).
+
 | Before | After |
 |:----:|:----:|
 |![before](./docs/before.png) | ![after](./docs/after.png)|
