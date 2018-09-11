@@ -3,7 +3,8 @@
     "target": "esnext",
     "module": "esnext",
     "strict": true,
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "jsx": "preserve"
   },
   "include": ["src"]
 }
