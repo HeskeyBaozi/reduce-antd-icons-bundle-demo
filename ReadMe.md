@@ -9,15 +9,23 @@ See [related issue](https://github.com/ant-design/ant-design/issues/12011#issuec
 
 ## Config `alias`
 
+See the whole file [src/icons.js](./src/icons.js)
 ```js
 // src/icons.js
 
 // export what you need
-export { default as SmileOutline } from '@ant-design/icons/lib/outline/SmileOutline';
-export { default as MehOutline } from '@ant-design/icons/lib/outline/MehOutline';
+export {
+  default as SmileOutline
+} from '@ant-design/icons/lib/outline/SmileOutline';
+export {
+  default as MehOutline
+} from '@ant-design/icons/lib/outline/MehOutline';
 
 // export what antd other components need
-export { default as LoadingOutline } from '@ant-design/icons/lib/outline/LoadingOutline';
+export {
+  default as CloseOutline
+} from '@ant-design/icons/lib/outline/CloseOutline';
+// and other icons...
 ```
 
 ```js
