@@ -36,3 +36,16 @@ export default {
   }
 };
 ```
+
+```
+// vue.config.js
+module.exports = {
+  configureWebpack: {
+    resolve: {
+      alias: {
+        "@ant-design/icons/lib/dist$": path.resolve(__dirname, "./src/icons.js")
+      }
+    }
+  }
+};
+```
